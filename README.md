@@ -1,2 +1,2 @@
-#Sentiment Analysis on Amazon Reviews
+# Sentiment Analysis on Amazon Reviews
 Sentiment analysis on Amazon reviews is a technique that aims to understand the sentiment expressed in customer reviews of products and services on the Amazon platform. It involves using natural language processing and machine learning algorithms to analyze the text and determine whether the sentiment expressed is positive, negative, or neutral.                                                                 
